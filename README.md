@@ -14,9 +14,9 @@
 
 ## Installation
 
-virtualenv -p python3.6 venv
-. venv/bin/activate
-pip install -r requirements.txt
+1. virtualenv -p python3.6 venv
+2. . venv/bin/activate
+3. pip install -r requirements.txt
 
 ## To run
 
