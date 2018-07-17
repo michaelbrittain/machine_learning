@@ -25,5 +25,4 @@
 
 ## Important info
 
-<img src="deep_learning.JPG" alt="deep learning" />
-
+![Deep learning](deep_learning.JPG)
