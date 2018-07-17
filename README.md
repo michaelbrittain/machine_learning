@@ -22,3 +22,7 @@
 
 1. cd into a directory
 2. ./main.py
+
+## Important info
+
+![Deep learning](deep_learning.JPG)
