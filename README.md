@@ -22,3 +22,8 @@
 
 1. cd into a directory
 2. ./main.py
+
+## Important info
+
+<img src="deep_learning.JPG" alt="deep learning" />
+
